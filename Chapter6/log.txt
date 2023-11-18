@@ -1,0 +1,28 @@
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+FINEST: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+FINER: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+FINE: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+CONFIG: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+INFO: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+WARNING: log Test
+11월 14, 2023 4:04:24 오후 ch11.MyLogger log
+SEVERE: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+FINEST: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+FINER: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+FINE: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+CONFIG: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+INFO: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+WARNING: log Test
+11월 14, 2023 4:06:40 오후 ch11.MyLogger log
+SEVERE: log Test
